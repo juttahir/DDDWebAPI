@@ -1,0 +1,12 @@
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Application.DTO\bin\Debug\net7.0\DDDWebAPI.Application.DTO.deps.json
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Application.DTO\bin\Debug\net7.0\DDDWebAPI.Application.DTO.dll
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Application.DTO\bin\Debug\net7.0\DDDWebAPI.Application.DTO.pdb
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Application.DTO\obj\Debug\net7.0\DDDWebAPI.Application.DTO.csproj.AssemblyReference.cache
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Application.DTO\obj\Debug\net7.0\DDDWebAPI.Application.DTO.GeneratedMSBuildEditorConfig.editorconfig
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Application.DTO\obj\Debug\net7.0\DDDWebAPI.Application.DTO.AssemblyInfoInputs.cache
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Application.DTO\obj\Debug\net7.0\DDDWebAPI.Application.DTO.AssemblyInfo.cs
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Application.DTO\obj\Debug\net7.0\DDDWebAPI.Application.DTO.csproj.CoreCompileInputs.cache
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Application.DTO\obj\Debug\net7.0\DDDWebAPI.Application.DTO.dll
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Application.DTO\obj\Debug\net7.0\refint\DDDWebAPI.Application.DTO.dll
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Application.DTO\obj\Debug\net7.0\DDDWebAPI.Application.DTO.pdb
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Application.DTO\obj\Debug\net7.0\ref\DDDWebAPI.Application.DTO.dll

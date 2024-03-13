@@ -1,0 +1,12 @@
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Domain\bin\Debug\net7.0\DDDWebAPI.Domain.deps.json
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Domain\bin\Debug\net7.0\DDDWebAPI.Domain.dll
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Domain\bin\Debug\net7.0\DDDWebAPI.Domain.pdb
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Domain\obj\Debug\net7.0\DDDWebAPI.Domain.csproj.AssemblyReference.cache
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Domain\obj\Debug\net7.0\DDDWebAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Domain\obj\Debug\net7.0\DDDWebAPI.Domain.AssemblyInfoInputs.cache
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Domain\obj\Debug\net7.0\DDDWebAPI.Domain.AssemblyInfo.cs
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Domain\obj\Debug\net7.0\DDDWebAPI.Domain.csproj.CoreCompileInputs.cache
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Domain\obj\Debug\net7.0\DDDWebAPI.Domain.dll
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Domain\obj\Debug\net7.0\refint\DDDWebAPI.Domain.dll
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Domain\obj\Debug\net7.0\DDDWebAPI.Domain.pdb
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Domain\obj\Debug\net7.0\ref\DDDWebAPI.Domain.dll

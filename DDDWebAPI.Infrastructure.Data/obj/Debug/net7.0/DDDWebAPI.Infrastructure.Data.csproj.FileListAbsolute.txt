@@ -1,0 +1,15 @@
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Infrastructure.Data\bin\Debug\net7.0\DDDWebAPI.Infrastructure.Data.deps.json
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Infrastructure.Data\bin\Debug\net7.0\DDDWebAPI.Infrastructure.Data.dll
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Infrastructure.Data\bin\Debug\net7.0\DDDWebAPI.Infrastructure.Data.pdb
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Infrastructure.Data\bin\Debug\net7.0\DDDWebAPI.Domain.dll
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Infrastructure.Data\bin\Debug\net7.0\DDDWebAPI.Domain.pdb
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Infrastructure.Data\obj\Debug\net7.0\DDDWebAPI.Infrastructure.Data.csproj.AssemblyReference.cache
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Infrastructure.Data\obj\Debug\net7.0\DDDWebAPI.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Infrastructure.Data\obj\Debug\net7.0\DDDWebAPI.Infrastructure.Data.AssemblyInfoInputs.cache
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Infrastructure.Data\obj\Debug\net7.0\DDDWebAPI.Infrastructure.Data.AssemblyInfo.cs
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Infrastructure.Data\obj\Debug\net7.0\DDDWebAPI.Infrastructure.Data.csproj.CoreCompileInputs.cache
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Infrastructure.Data\obj\Debug\net7.0\DDDWebAPI.Infrastructure.Data.csproj.CopyComplete
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Infrastructure.Data\obj\Debug\net7.0\DDDWebAPI.Infrastructure.Data.dll
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Infrastructure.Data\obj\Debug\net7.0\refint\DDDWebAPI.Infrastructure.Data.dll
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Infrastructure.Data\obj\Debug\net7.0\DDDWebAPI.Infrastructure.Data.pdb
+F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Infrastructure.Data\obj\Debug\net7.0\ref\DDDWebAPI.Infrastructure.Data.dll

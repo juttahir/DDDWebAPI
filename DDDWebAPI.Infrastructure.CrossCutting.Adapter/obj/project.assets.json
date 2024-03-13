@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "DDDWebAPI.Application.DTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/DDDWebAPI.Application.DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DDDWebAPI.Application.DTO.dll": {}
+        }
+      },
+      "DDDWebAPI.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/DDDWebAPI.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DDDWebAPI.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DDDWebAPI.Application.DTO/1.0.0": {
+      "type": "project",
+      "path": "../DDDWebAPI.Application.DTO/DDDWebAPI.Application.DTO.csproj",
+      "msbuildProject": "../DDDWebAPI.Application.DTO/DDDWebAPI.Application.DTO.csproj"
+    },
+    "DDDWebAPI.Domain/1.0.0": {
+      "type": "project",
+      "path": "../DDDWebAPI.Domain/DDDWebAPI.Domain.csproj",
+      "msbuildProject": "../DDDWebAPI.Domain/DDDWebAPI.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "DDDWebAPI.Application.DTO >= 1.0.0",
+      "DDDWebAPI.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\jutta\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Infrastructure.CrossCutting.Adapter\\DDDWebAPI.Infrastructure.CrossCutting.Adapter.csproj",
+      "projectName": "DDDWebAPI.Infrastructure.CrossCutting.Adapter",
+      "projectPath": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Infrastructure.CrossCutting.Adapter\\DDDWebAPI.Infrastructure.CrossCutting.Adapter.csproj",
+      "packagesPath": "C:\\Users\\jutta\\.nuget\\packages\\",
+      "outputPath": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Infrastructure.CrossCutting.Adapter\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\jutta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Application.DTO\\DDDWebAPI.Application.DTO.csproj": {
+              "projectPath": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Application.DTO\\DDDWebAPI.Application.DTO.csproj"
+            },
+            "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Domain\\DDDWebAPI.Domain.csproj": {
+              "projectPath": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Domain\\DDDWebAPI.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

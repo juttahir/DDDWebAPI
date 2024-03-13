@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Infrastructure.Data\\DDDWebAPI.Infrastructure.Data.csproj": {}
+  },
+  "projects": {
+    "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Domain\\DDDWebAPI.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Domain\\DDDWebAPI.Domain.csproj",
+        "projectName": "DDDWebAPI.Domain",
+        "projectPath": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Domain\\DDDWebAPI.Domain.csproj",
+        "packagesPath": "C:\\Users\\jutta\\.nuget\\packages\\",
+        "outputPath": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jutta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Infrastructure.Data\\DDDWebAPI.Infrastructure.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Infrastructure.Data\\DDDWebAPI.Infrastructure.Data.csproj",
+        "projectName": "DDDWebAPI.Infrastructure.Data",
+        "projectPath": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Infrastructure.Data\\DDDWebAPI.Infrastructure.Data.csproj",
+        "packagesPath": "C:\\Users\\jutta\\.nuget\\packages\\",
+        "outputPath": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Infrastructure.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jutta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Domain\\DDDWebAPI.Domain.csproj": {
+                "projectPath": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Domain\\DDDWebAPI.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

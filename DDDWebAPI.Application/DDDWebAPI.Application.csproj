@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\DDDWebAPI.Application.DTO\DDDWebAPI.Application.DTO.csproj" />
+      <ProjectReference Include="..\DDDWebAPI.Domain.Core\DDDWebAPI.Domain.Core.csproj" />
+      <ProjectReference Include="..\DDDWebAPI.Infrastructure.CrossCutting.Adapter\DDDWebAPI.Infrastructure.CrossCutting.Adapter.csproj" />
+      <ProjectReference Include="..\DDDWebAPI.Infrastructure.Repository\DDDWebAPI.Infrastructure.Repository.csproj" />
+    </ItemGroup>
+
+</Project>

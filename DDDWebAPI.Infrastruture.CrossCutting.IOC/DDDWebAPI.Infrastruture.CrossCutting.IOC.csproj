@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <AssemblyName>DDDWebAPI.Infrastructure.CrossCutting.IOC</AssemblyName>
+        <RootNamespace>DDDWebAPI.Infrastructure.CrossCutting.IOC</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\DDDWebAPI.Application\DDDWebAPI.Application.csproj" />
+      <ProjectReference Include="..\DDDWebAPI.Domain.Services\DDDWebAPI.Domain.Services.csproj" />
+      <ProjectReference Include="..\DDDWebAPI.Infrastructure.CrossCutting.Adapter\DDDWebAPI.Infrastructure.CrossCutting.Adapter.csproj" />
+      <ProjectReference Include="..\DDDWebAPI.Infrastructure.Repository\DDDWebAPI.Infrastructure.Repository.csproj" />
+    </ItemGroup>
+
+</Project>

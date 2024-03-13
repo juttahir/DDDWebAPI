@@ -1,0 +1,17 @@
+F:\_RiderProjects\DDDRestAPI\DDDWebAPI.Infrastruture.CrossCutting.Adapter\bin\Debug\net7.0\DDDWebAPI.Infrastruture.CrossCutting.Adapter.deps.json
+F:\_RiderProjects\DDDRestAPI\DDDWebAPI.Infrastruture.CrossCutting.Adapter\bin\Debug\net7.0\DDDWebAPI.Infrastruture.CrossCutting.Adapter.dll
+F:\_RiderProjects\DDDRestAPI\DDDWebAPI.Infrastruture.CrossCutting.Adapter\bin\Debug\net7.0\DDDWebAPI.Infrastruture.CrossCutting.Adapter.pdb
+F:\_RiderProjects\DDDRestAPI\DDDWebAPI.Infrastruture.CrossCutting.Adapter\bin\Debug\net7.0\DDDWebAPI.Application.DTO.dll
+F:\_RiderProjects\DDDRestAPI\DDDWebAPI.Infrastruture.CrossCutting.Adapter\bin\Debug\net7.0\DDDWebAPI.Domain.dll
+F:\_RiderProjects\DDDRestAPI\DDDWebAPI.Infrastruture.CrossCutting.Adapter\bin\Debug\net7.0\DDDWebAPI.Application.DTO.pdb
+F:\_RiderProjects\DDDRestAPI\DDDWebAPI.Infrastruture.CrossCutting.Adapter\bin\Debug\net7.0\DDDWebAPI.Domain.pdb
+F:\_RiderProjects\DDDRestAPI\DDDWebAPI.Infrastruture.CrossCutting.Adapter\obj\Debug\net7.0\DDDWebAPI.Infrastruture.CrossCutting.Adapter.csproj.AssemblyReference.cache
+F:\_RiderProjects\DDDRestAPI\DDDWebAPI.Infrastruture.CrossCutting.Adapter\obj\Debug\net7.0\DDDWebAPI.Infrastruture.CrossCutting.Adapter.GeneratedMSBuildEditorConfig.editorconfig
+F:\_RiderProjects\DDDRestAPI\DDDWebAPI.Infrastruture.CrossCutting.Adapter\obj\Debug\net7.0\DDDWebAPI.Infrastruture.CrossCutting.Adapter.AssemblyInfoInputs.cache
+F:\_RiderProjects\DDDRestAPI\DDDWebAPI.Infrastruture.CrossCutting.Adapter\obj\Debug\net7.0\DDDWebAPI.Infrastruture.CrossCutting.Adapter.AssemblyInfo.cs
+F:\_RiderProjects\DDDRestAPI\DDDWebAPI.Infrastruture.CrossCutting.Adapter\obj\Debug\net7.0\DDDWebAPI.Infrastruture.CrossCutting.Adapter.csproj.CoreCompileInputs.cache
+F:\_RiderProjects\DDDRestAPI\DDDWebAPI.Infrastruture.CrossCutting.Adapter\obj\Debug\net7.0\DDDWebAPI.Infrastruture.CrossCutting.Adapter.csproj.CopyComplete
+F:\_RiderProjects\DDDRestAPI\DDDWebAPI.Infrastruture.CrossCutting.Adapter\obj\Debug\net7.0\DDDWebAPI.Infrastruture.CrossCutting.Adapter.dll
+F:\_RiderProjects\DDDRestAPI\DDDWebAPI.Infrastruture.CrossCutting.Adapter\obj\Debug\net7.0\refint\DDDWebAPI.Infrastruture.CrossCutting.Adapter.dll
+F:\_RiderProjects\DDDRestAPI\DDDWebAPI.Infrastruture.CrossCutting.Adapter\obj\Debug\net7.0\DDDWebAPI.Infrastruture.CrossCutting.Adapter.pdb
+F:\_RiderProjects\DDDRestAPI\DDDWebAPI.Infrastruture.CrossCutting.Adapter\obj\Debug\net7.0\ref\DDDWebAPI.Infrastruture.CrossCutting.Adapter.dll
