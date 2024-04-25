@@ -15,3 +15,21 @@ F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Infrastructure.CrossCutting.Adapter\obj\De
 F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Infrastructure.CrossCutting.Adapter\obj\Debug\net7.0\refint\DDDWebAPI.Infrastructure.CrossCutting.Adapter.dll
 F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Infrastructure.CrossCutting.Adapter\obj\Debug\net7.0\DDDWebAPI.Infrastructure.CrossCutting.Adapter.pdb
 F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Infrastructure.CrossCutting.Adapter\obj\Debug\net7.0\ref\DDDWebAPI.Infrastructure.CrossCutting.Adapter.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastructure.CrossCutting.Adapter\bin\Debug\net7.0\DDDWebAPI.Infrastructure.CrossCutting.Adapter.deps.json
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastructure.CrossCutting.Adapter\bin\Debug\net7.0\DDDWebAPI.Infrastructure.CrossCutting.Adapter.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastructure.CrossCutting.Adapter\bin\Debug\net7.0\DDDWebAPI.Infrastructure.CrossCutting.Adapter.pdb
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastructure.CrossCutting.Adapter\bin\Debug\net7.0\DDDWebAPI.Application.DTO.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastructure.CrossCutting.Adapter\bin\Debug\net7.0\DDDWebAPI.Domain.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastructure.CrossCutting.Adapter\bin\Debug\net7.0\DDDWebAPI.Application.DTO.pdb
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastructure.CrossCutting.Adapter\bin\Debug\net7.0\DDDWebAPI.Domain.pdb
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastructure.CrossCutting.Adapter\obj\Debug\net7.0\DDDWebAPI.Infrastructure.CrossCutting.Adapter.csproj.AssemblyReference.cache
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastructure.CrossCutting.Adapter\obj\Debug\net7.0\DDDWebAPI.Infrastructure.CrossCutting.Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastructure.CrossCutting.Adapter\obj\Debug\net7.0\DDDWebAPI.Infrastructure.CrossCutting.Adapter.AssemblyInfoInputs.cache
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastructure.CrossCutting.Adapter\obj\Debug\net7.0\DDDWebAPI.Infrastructure.CrossCutting.Adapter.AssemblyInfo.cs
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastructure.CrossCutting.Adapter\obj\Debug\net7.0\DDDWebAPI.Infrastructure.CrossCutting.Adapter.csproj.CoreCompileInputs.cache
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastructure.CrossCutting.Adapter\obj\Debug\net7.0\DDDWebAPI.Infrastructure.CrossCutting.Adapter.sourcelink.json
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastructure.CrossCutting.Adapter\obj\Debug\net7.0\DDDWebAP.C363EC12.Up2Date
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastructure.CrossCutting.Adapter\obj\Debug\net7.0\DDDWebAPI.Infrastructure.CrossCutting.Adapter.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastructure.CrossCutting.Adapter\obj\Debug\net7.0\refint\DDDWebAPI.Infrastructure.CrossCutting.Adapter.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastructure.CrossCutting.Adapter\obj\Debug\net7.0\DDDWebAPI.Infrastructure.CrossCutting.Adapter.pdb
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastructure.CrossCutting.Adapter\obj\Debug\net7.0\ref\DDDWebAPI.Infrastructure.CrossCutting.Adapter.dll

@@ -16,7 +16,8 @@
           "Microsoft.AspNetCore.OpenApi": "7.0.2",
           "Microsoft.EntityFrameworkCore": "7.0.17",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.17",
-          "Swashbuckle.AspNetCore": "6.4.0"
+          "Swashbuckle.AspNetCore": "6.4.0",
+          "DDDWebAPI.Infrastructure.CrossCutting.IOC.Reference": "1.0.0.0"
         },
         "runtime": {
           "DDDWebApi.Presentation.dll": {}
@@ -435,14 +436,7 @@
           }
         }
       },
-      "System.Diagnostics.DiagnosticSource/7.0.2": {
-        "runtime": {
-          "lib/net7.0/System.Diagnostics.DiagnosticSource.dll": {
-            "assemblyVersion": "7.0.0.0",
-            "fileVersion": "7.0.423.11508"
-          }
-        }
-      },
+      "System.Diagnostics.DiagnosticSource/7.0.2": {},
       "System.Drawing.Common/6.0.0": {
         "dependencies": {
           "Microsoft.Win32.SystemEvents": "6.0.0"
@@ -676,6 +670,14 @@
         },
         "runtime": {
           "DDDWebAPI.Infrastructure.Repository.dll": {}
+        }
+      },
+      "DDDWebAPI.Infrastructure.CrossCutting.IOC.Reference/1.0.0.0": {
+        "runtime": {
+          "DDDWebAPI.Infrastructure.CrossCutting.IOC.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
@@ -1176,6 +1178,11 @@
     },
     "DDDWebAPI.Infrastructure.Repository/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DDDWebAPI.Infrastructure.CrossCutting.IOC.Reference/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

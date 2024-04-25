@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Application\\DDDWebAPI.Application.csproj": {}
+    "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Application\\DDDWebAPI.Application.csproj": {}
   },
   "projects": {
-    "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Application.DTO\\DDDWebAPI.Application.DTO.csproj": {
+    "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Application.DTO\\DDDWebAPI.Application.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Application.DTO\\DDDWebAPI.Application.DTO.csproj",
+        "projectUniqueName": "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Application.DTO\\DDDWebAPI.Application.DTO.csproj",
         "projectName": "DDDWebAPI.Application.DTO",
-        "projectPath": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Application.DTO\\DDDWebAPI.Application.DTO.csproj",
-        "packagesPath": "C:\\Users\\jutta\\.nuget\\packages\\",
-        "outputPath": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Application.DTO\\obj\\",
+        "projectPath": "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Application.DTO\\DDDWebAPI.Application.DTO.csproj",
+        "packagesPath": "C:\\Users\\juttahir.moraes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Application.DTO\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jutta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\juttahir.moraes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,21 +59,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Application\\DDDWebAPI.Application.csproj": {
+    "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Application\\DDDWebAPI.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Application\\DDDWebAPI.Application.csproj",
+        "projectUniqueName": "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Application\\DDDWebAPI.Application.csproj",
         "projectName": "DDDWebAPI.Application",
-        "projectPath": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Application\\DDDWebAPI.Application.csproj",
-        "packagesPath": "C:\\Users\\jutta\\.nuget\\packages\\",
-        "outputPath": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Application\\obj\\",
+        "projectPath": "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Application\\DDDWebAPI.Application.csproj",
+        "packagesPath": "C:\\Users\\juttahir.moraes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jutta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\juttahir.moraes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -83,17 +91,17 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Application.DTO\\DDDWebAPI.Application.DTO.csproj": {
-                "projectPath": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Application.DTO\\DDDWebAPI.Application.DTO.csproj"
+              "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Application.DTO\\DDDWebAPI.Application.DTO.csproj": {
+                "projectPath": "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Application.DTO\\DDDWebAPI.Application.DTO.csproj"
               },
-              "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Domain.Core\\DDDWebAPI.Domain.Core.csproj": {
-                "projectPath": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Domain.Core\\DDDWebAPI.Domain.Core.csproj"
+              "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Domain.Core\\DDDWebAPI.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Domain.Core\\DDDWebAPI.Domain.Core.csproj"
               },
-              "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Infrastructure.CrossCutting.Adapter\\DDDWebAPI.Infrastructure.CrossCutting.Adapter.csproj": {
-                "projectPath": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Infrastructure.CrossCutting.Adapter\\DDDWebAPI.Infrastructure.CrossCutting.Adapter.csproj"
+              "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Infrastructure.CrossCutting.Adapter\\DDDWebAPI.Infrastructure.CrossCutting.Adapter.csproj": {
+                "projectPath": "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Infrastructure.CrossCutting.Adapter\\DDDWebAPI.Infrastructure.CrossCutting.Adapter.csproj"
               },
-              "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Infrastructure.Repository\\DDDWebAPI.Infrastructure.Repository.csproj": {
-                "projectPath": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Infrastructure.Repository\\DDDWebAPI.Infrastructure.Repository.csproj"
+              "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Infrastructure.Repository\\DDDWebAPI.Infrastructure.Repository.csproj": {
+                "projectPath": "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Infrastructure.Repository\\DDDWebAPI.Infrastructure.Repository.csproj"
               }
             }
           }
@@ -123,21 +131,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Domain.Core\\DDDWebAPI.Domain.Core.csproj": {
+    "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Domain.Core\\DDDWebAPI.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Domain.Core\\DDDWebAPI.Domain.Core.csproj",
+        "projectUniqueName": "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Domain.Core\\DDDWebAPI.Domain.Core.csproj",
         "projectName": "DDDWebAPI.Domain.Core",
-        "projectPath": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Domain.Core\\DDDWebAPI.Domain.Core.csproj",
-        "packagesPath": "C:\\Users\\jutta\\.nuget\\packages\\",
-        "outputPath": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Domain.Core\\obj\\",
+        "projectPath": "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Domain.Core\\DDDWebAPI.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\juttahir.moraes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jutta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\juttahir.moraes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -151,11 +163,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Domain\\DDDWebAPI.Domain.csproj": {
-                "projectPath": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Domain\\DDDWebAPI.Domain.csproj"
+              "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Domain\\DDDWebAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Domain\\DDDWebAPI.Domain.csproj"
               },
-              "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Infrastructure.CrossCutting.Adapter\\DDDWebAPI.Infrastructure.CrossCutting.Adapter.csproj": {
-                "projectPath": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Infrastructure.CrossCutting.Adapter\\DDDWebAPI.Infrastructure.CrossCutting.Adapter.csproj"
+              "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Infrastructure.CrossCutting.Adapter\\DDDWebAPI.Infrastructure.CrossCutting.Adapter.csproj": {
+                "projectPath": "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Infrastructure.CrossCutting.Adapter\\DDDWebAPI.Infrastructure.CrossCutting.Adapter.csproj"
               }
             }
           }
@@ -185,21 +197,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Domain\\DDDWebAPI.Domain.csproj": {
+    "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Domain\\DDDWebAPI.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Domain\\DDDWebAPI.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Domain\\DDDWebAPI.Domain.csproj",
         "projectName": "DDDWebAPI.Domain",
-        "projectPath": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Domain\\DDDWebAPI.Domain.csproj",
-        "packagesPath": "C:\\Users\\jutta\\.nuget\\packages\\",
-        "outputPath": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Domain\\obj\\",
+        "projectPath": "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Domain\\DDDWebAPI.Domain.csproj",
+        "packagesPath": "C:\\Users\\juttahir.moraes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jutta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\juttahir.moraes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -240,21 +256,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Infrastructure.CrossCutting.Adapter\\DDDWebAPI.Infrastructure.CrossCutting.Adapter.csproj": {
+    "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Infrastructure.CrossCutting.Adapter\\DDDWebAPI.Infrastructure.CrossCutting.Adapter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Infrastructure.CrossCutting.Adapter\\DDDWebAPI.Infrastructure.CrossCutting.Adapter.csproj",
+        "projectUniqueName": "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Infrastructure.CrossCutting.Adapter\\DDDWebAPI.Infrastructure.CrossCutting.Adapter.csproj",
         "projectName": "DDDWebAPI.Infrastructure.CrossCutting.Adapter",
-        "projectPath": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Infrastructure.CrossCutting.Adapter\\DDDWebAPI.Infrastructure.CrossCutting.Adapter.csproj",
-        "packagesPath": "C:\\Users\\jutta\\.nuget\\packages\\",
-        "outputPath": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Infrastructure.CrossCutting.Adapter\\obj\\",
+        "projectPath": "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Infrastructure.CrossCutting.Adapter\\DDDWebAPI.Infrastructure.CrossCutting.Adapter.csproj",
+        "packagesPath": "C:\\Users\\juttahir.moraes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Infrastructure.CrossCutting.Adapter\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jutta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\juttahir.moraes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -268,11 +288,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Application.DTO\\DDDWebAPI.Application.DTO.csproj": {
-                "projectPath": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Application.DTO\\DDDWebAPI.Application.DTO.csproj"
+              "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Application.DTO\\DDDWebAPI.Application.DTO.csproj": {
+                "projectPath": "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Application.DTO\\DDDWebAPI.Application.DTO.csproj"
               },
-              "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Domain\\DDDWebAPI.Domain.csproj": {
-                "projectPath": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Domain\\DDDWebAPI.Domain.csproj"
+              "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Domain\\DDDWebAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Domain\\DDDWebAPI.Domain.csproj"
               }
             }
           }
@@ -302,21 +322,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Infrastructure.Data\\DDDWebAPI.Infrastructure.Data.csproj": {
+    "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Infrastructure.Data\\DDDWebAPI.Infrastructure.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Infrastructure.Data\\DDDWebAPI.Infrastructure.Data.csproj",
+        "projectUniqueName": "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Infrastructure.Data\\DDDWebAPI.Infrastructure.Data.csproj",
         "projectName": "DDDWebAPI.Infrastructure.Data",
-        "projectPath": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Infrastructure.Data\\DDDWebAPI.Infrastructure.Data.csproj",
-        "packagesPath": "C:\\Users\\jutta\\.nuget\\packages\\",
-        "outputPath": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Infrastructure.Data\\obj\\",
+        "projectPath": "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Infrastructure.Data\\DDDWebAPI.Infrastructure.Data.csproj",
+        "packagesPath": "C:\\Users\\juttahir.moraes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Infrastructure.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jutta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\juttahir.moraes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -330,8 +354,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Domain\\DDDWebAPI.Domain.csproj": {
-                "projectPath": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Domain\\DDDWebAPI.Domain.csproj"
+              "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Domain\\DDDWebAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Domain\\DDDWebAPI.Domain.csproj"
               }
             }
           }
@@ -375,21 +399,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Infrastructure.Repository\\DDDWebAPI.Infrastructure.Repository.csproj": {
+    "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Infrastructure.Repository\\DDDWebAPI.Infrastructure.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Infrastructure.Repository\\DDDWebAPI.Infrastructure.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Infrastructure.Repository\\DDDWebAPI.Infrastructure.Repository.csproj",
         "projectName": "DDDWebAPI.Infrastructure.Repository",
-        "projectPath": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Infrastructure.Repository\\DDDWebAPI.Infrastructure.Repository.csproj",
-        "packagesPath": "C:\\Users\\jutta\\.nuget\\packages\\",
-        "outputPath": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Infrastructure.Repository\\obj\\",
+        "projectPath": "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Infrastructure.Repository\\DDDWebAPI.Infrastructure.Repository.csproj",
+        "packagesPath": "C:\\Users\\juttahir.moraes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Infrastructure.Repository\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jutta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\juttahir.moraes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -403,11 +431,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Domain.Core\\DDDWebAPI.Domain.Core.csproj": {
-                "projectPath": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Domain.Core\\DDDWebAPI.Domain.Core.csproj"
+              "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Domain.Core\\DDDWebAPI.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Domain.Core\\DDDWebAPI.Domain.Core.csproj"
               },
-              "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Infrastructure.Data\\DDDWebAPI.Infrastructure.Data.csproj": {
-                "projectPath": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Infrastructure.Data\\DDDWebAPI.Infrastructure.Data.csproj"
+              "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Infrastructure.Data\\DDDWebAPI.Infrastructure.Data.csproj": {
+                "projectPath": "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Infrastructure.Data\\DDDWebAPI.Infrastructure.Data.csproj"
               }
             }
           }
@@ -437,7 +465,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

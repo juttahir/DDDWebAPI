@@ -10,3 +10,15 @@ F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Domain\obj\Debug\net7.0\DDDWebAPI.Domain.d
 F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Domain\obj\Debug\net7.0\refint\DDDWebAPI.Domain.dll
 F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Domain\obj\Debug\net7.0\DDDWebAPI.Domain.pdb
 F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Domain\obj\Debug\net7.0\ref\DDDWebAPI.Domain.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Domain\bin\Debug\net7.0\DDDWebAPI.Domain.deps.json
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Domain\bin\Debug\net7.0\DDDWebAPI.Domain.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Domain\bin\Debug\net7.0\DDDWebAPI.Domain.pdb
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Domain\obj\Debug\net7.0\DDDWebAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Domain\obj\Debug\net7.0\DDDWebAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Domain\obj\Debug\net7.0\DDDWebAPI.Domain.AssemblyInfo.cs
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Domain\obj\Debug\net7.0\DDDWebAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Domain\obj\Debug\net7.0\DDDWebAPI.Domain.sourcelink.json
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Domain\obj\Debug\net7.0\DDDWebAPI.Domain.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Domain\obj\Debug\net7.0\refint\DDDWebAPI.Domain.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Domain\obj\Debug\net7.0\DDDWebAPI.Domain.pdb
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Domain\obj\Debug\net7.0\ref\DDDWebAPI.Domain.dll

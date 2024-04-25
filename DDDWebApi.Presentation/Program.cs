@@ -1,11 +1,18 @@
 using Autofac;
+using Autofac.Core;
 using Autofac.Extensions.DependencyInjection;
 using Microsoft.OpenApi.Models;
 using DDDWebAPI.Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 using DDDWebAPI.Infrastructure.CrossCutting.IOC;
+using DDDWebAPI.Presentation.Controllers;
 
 var builder = WebApplication.CreateBuilder(args);
+builder.Host.UseServiceProviderFactory(new AutofacServiceProviderFactory())
+    .ConfigureContainer<ContainerBuilder>((container) =>
+    {
+        container.RegisterModule(new ModuleIOC());
+    });
 
 // Adiciona serviços ao contêiner.
 var connection = builder.Configuration["SqlConnection:SqlConnectionString"];
@@ -16,9 +23,7 @@ builder.Services.AddSwaggerGen(c =>
     c.SwaggerDoc("v1", new OpenApiInfo { Title = "API Model DDD", Version = "v1" });
 });
 
-// Configura o contêiner Autofac
 var containerBuilder = new ContainerBuilder();
-containerBuilder.RegisterModule(new ModuleIOC());
 
 // Importa os serviços do IServiceCollection para o contêiner Autofac
 containerBuilder.Populate(builder.Services);

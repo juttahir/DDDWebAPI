@@ -42,7 +42,6 @@ public class ClientesController : ControllerBase
             }
             catch (Exception ex)
             {
-
                 throw ex;
             }
 

@@ -13,3 +13,19 @@ F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Infrastructure.Data\obj\Debug\net7.0\DDDWe
 F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Infrastructure.Data\obj\Debug\net7.0\refint\DDDWebAPI.Infrastructure.Data.dll
 F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Infrastructure.Data\obj\Debug\net7.0\DDDWebAPI.Infrastructure.Data.pdb
 F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Infrastructure.Data\obj\Debug\net7.0\ref\DDDWebAPI.Infrastructure.Data.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastructure.Data\bin\Debug\net7.0\DDDWebAPI.Infrastructure.Data.deps.json
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastructure.Data\bin\Debug\net7.0\DDDWebAPI.Infrastructure.Data.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastructure.Data\bin\Debug\net7.0\DDDWebAPI.Infrastructure.Data.pdb
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastructure.Data\bin\Debug\net7.0\DDDWebAPI.Domain.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastructure.Data\bin\Debug\net7.0\DDDWebAPI.Domain.pdb
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastructure.Data\obj\Debug\net7.0\DDDWebAPI.Infrastructure.Data.csproj.AssemblyReference.cache
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastructure.Data\obj\Debug\net7.0\DDDWebAPI.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastructure.Data\obj\Debug\net7.0\DDDWebAPI.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastructure.Data\obj\Debug\net7.0\DDDWebAPI.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastructure.Data\obj\Debug\net7.0\DDDWebAPI.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastructure.Data\obj\Debug\net7.0\DDDWebAPI.Infrastructure.Data.sourcelink.json
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastructure.Data\obj\Debug\net7.0\DDDWebAP.2BA6C007.Up2Date
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastructure.Data\obj\Debug\net7.0\DDDWebAPI.Infrastructure.Data.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastructure.Data\obj\Debug\net7.0\refint\DDDWebAPI.Infrastructure.Data.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastructure.Data\obj\Debug\net7.0\DDDWebAPI.Infrastructure.Data.pdb
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastructure.Data\obj\Debug\net7.0\ref\DDDWebAPI.Infrastructure.Data.dll

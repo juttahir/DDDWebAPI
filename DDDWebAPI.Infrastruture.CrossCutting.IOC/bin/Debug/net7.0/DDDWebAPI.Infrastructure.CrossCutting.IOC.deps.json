@@ -409,14 +409,7 @@
           }
         }
       },
-      "System.Diagnostics.DiagnosticSource/7.0.2": {
-        "runtime": {
-          "lib/net7.0/System.Diagnostics.DiagnosticSource.dll": {
-            "assemblyVersion": "7.0.0.0",
-            "fileVersion": "7.0.423.11508"
-          }
-        }
-      },
+      "System.Diagnostics.DiagnosticSource/7.0.2": {},
       "System.Drawing.Common/6.0.0": {
         "dependencies": {
           "Microsoft.Win32.SystemEvents": "6.0.0"

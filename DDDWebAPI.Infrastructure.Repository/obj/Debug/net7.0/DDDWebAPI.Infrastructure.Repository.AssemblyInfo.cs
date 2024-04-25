@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DDDWebAPI.Infrastructure.Repository")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c882208a8a48466e6a24827e6384d454f40d29a")]
 [assembly: System.Reflection.AssemblyProductAttribute("DDDWebAPI.Infrastructure.Repository")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DDDWebAPI.Infrastructure.Repository")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -10,3 +10,15 @@ F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Application.DTO\obj\Debug\net7.0\DDDWebAPI
 F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Application.DTO\obj\Debug\net7.0\refint\DDDWebAPI.Application.DTO.dll
 F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Application.DTO\obj\Debug\net7.0\DDDWebAPI.Application.DTO.pdb
 F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Application.DTO\obj\Debug\net7.0\ref\DDDWebAPI.Application.DTO.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Application.DTO\bin\Debug\net7.0\DDDWebAPI.Application.DTO.deps.json
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Application.DTO\bin\Debug\net7.0\DDDWebAPI.Application.DTO.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Application.DTO\bin\Debug\net7.0\DDDWebAPI.Application.DTO.pdb
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Application.DTO\obj\Debug\net7.0\DDDWebAPI.Application.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Application.DTO\obj\Debug\net7.0\DDDWebAPI.Application.DTO.AssemblyInfoInputs.cache
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Application.DTO\obj\Debug\net7.0\DDDWebAPI.Application.DTO.AssemblyInfo.cs
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Application.DTO\obj\Debug\net7.0\DDDWebAPI.Application.DTO.csproj.CoreCompileInputs.cache
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Application.DTO\obj\Debug\net7.0\DDDWebAPI.Application.DTO.sourcelink.json
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Application.DTO\obj\Debug\net7.0\DDDWebAPI.Application.DTO.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Application.DTO\obj\Debug\net7.0\refint\DDDWebAPI.Application.DTO.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Application.DTO\obj\Debug\net7.0\DDDWebAPI.Application.DTO.pdb
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Application.DTO\obj\Debug\net7.0\ref\DDDWebAPI.Application.DTO.dll

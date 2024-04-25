@@ -27,3 +27,33 @@ F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.IOC\obj\Debug\n
 F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.IOC\obj\Debug\net7.0\refint\DDDWebAPI.Infrastructure.CrossCutting.IOC.dll
 F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.IOC\obj\Debug\net7.0\DDDWebAPI.Infrastructure.CrossCutting.IOC.pdb
 F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.IOC\obj\Debug\net7.0\ref\DDDWebAPI.Infrastructure.CrossCutting.IOC.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.IOC\bin\Debug\net7.0\DDDWebAPI.Infrastructure.CrossCutting.IOC.deps.json
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.IOC\bin\Debug\net7.0\DDDWebAPI.Infrastructure.CrossCutting.IOC.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.IOC\bin\Debug\net7.0\DDDWebAPI.Infrastructure.CrossCutting.IOC.pdb
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.IOC\bin\Debug\net7.0\DDDWebAPI.Application.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.IOC\bin\Debug\net7.0\DDDWebAPI.Application.DTO.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.IOC\bin\Debug\net7.0\DDDWebAPI.Domain.Core.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.IOC\bin\Debug\net7.0\DDDWebAPI.Domain.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.IOC\bin\Debug\net7.0\DDDWebAPI.Domain.Services.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.IOC\bin\Debug\net7.0\DDDWebAPI.Infrastructure.CrossCutting.Adapter.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.IOC\bin\Debug\net7.0\DDDWebAPI.Infrastructure.Data.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.IOC\bin\Debug\net7.0\DDDWebAPI.Infrastructure.Repository.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.IOC\bin\Debug\net7.0\DDDWebAPI.Application.pdb
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.IOC\bin\Debug\net7.0\DDDWebAPI.Domain.Services.pdb
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.IOC\bin\Debug\net7.0\DDDWebAPI.Infrastructure.CrossCutting.Adapter.pdb
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.IOC\bin\Debug\net7.0\DDDWebAPI.Infrastructure.Repository.pdb
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.IOC\bin\Debug\net7.0\DDDWebAPI.Application.DTO.pdb
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.IOC\bin\Debug\net7.0\DDDWebAPI.Domain.pdb
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.IOC\bin\Debug\net7.0\DDDWebAPI.Domain.Core.pdb
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.IOC\bin\Debug\net7.0\DDDWebAPI.Infrastructure.Data.pdb
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.IOC\obj\Debug\net7.0\DDDWebAPI.Infrastruture.CrossCutting.IOC.csproj.AssemblyReference.cache
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.IOC\obj\Debug\net7.0\DDDWebAPI.Infrastruture.CrossCutting.IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.IOC\obj\Debug\net7.0\DDDWebAPI.Infrastruture.CrossCutting.IOC.AssemblyInfoInputs.cache
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.IOC\obj\Debug\net7.0\DDDWebAPI.Infrastruture.CrossCutting.IOC.AssemblyInfo.cs
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.IOC\obj\Debug\net7.0\DDDWebAPI.Infrastruture.CrossCutting.IOC.csproj.CoreCompileInputs.cache
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.IOC\obj\Debug\net7.0\DDDWebAPI.Infrastruture.CrossCutting.IOC.sourcelink.json
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.IOC\obj\Debug\net7.0\DDDWebAP.DE062F75.Up2Date
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.IOC\obj\Debug\net7.0\DDDWebAPI.Infrastructure.CrossCutting.IOC.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.IOC\obj\Debug\net7.0\refint\DDDWebAPI.Infrastructure.CrossCutting.IOC.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.IOC\obj\Debug\net7.0\DDDWebAPI.Infrastructure.CrossCutting.IOC.pdb
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.IOC\obj\Debug\net7.0\ref\DDDWebAPI.Infrastructure.CrossCutting.IOC.dll

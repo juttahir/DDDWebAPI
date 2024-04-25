@@ -19,3 +19,25 @@ F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Domain.Services\obj\Debug\net7.0\DDDWebAPI
 F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Domain.Services\obj\Debug\net7.0\refint\DDDWebAPI.Domain.Services.dll
 F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Domain.Services\obj\Debug\net7.0\DDDWebAPI.Domain.Services.pdb
 F:\_RiderProjects\DDDWebAPI\DDDWebAPI.Domain.Services\obj\Debug\net7.0\ref\DDDWebAPI.Domain.Services.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Domain.Services\bin\Debug\net7.0\DDDWebAPI.Domain.Services.deps.json
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Domain.Services\bin\Debug\net7.0\DDDWebAPI.Domain.Services.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Domain.Services\bin\Debug\net7.0\DDDWebAPI.Domain.Services.pdb
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Domain.Services\bin\Debug\net7.0\DDDWebAPI.Application.DTO.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Domain.Services\bin\Debug\net7.0\DDDWebAPI.Domain.Core.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Domain.Services\bin\Debug\net7.0\DDDWebAPI.Domain.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Domain.Services\bin\Debug\net7.0\DDDWebAPI.Infrastructure.CrossCutting.Adapter.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Domain.Services\bin\Debug\net7.0\DDDWebAPI.Domain.Core.pdb
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Domain.Services\bin\Debug\net7.0\DDDWebAPI.Application.DTO.pdb
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Domain.Services\bin\Debug\net7.0\DDDWebAPI.Domain.pdb
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Domain.Services\bin\Debug\net7.0\DDDWebAPI.Infrastructure.CrossCutting.Adapter.pdb
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Domain.Services\obj\Debug\net7.0\DDDWebAPI.Domain.Services.csproj.AssemblyReference.cache
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Domain.Services\obj\Debug\net7.0\DDDWebAPI.Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Domain.Services\obj\Debug\net7.0\DDDWebAPI.Domain.Services.AssemblyInfoInputs.cache
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Domain.Services\obj\Debug\net7.0\DDDWebAPI.Domain.Services.AssemblyInfo.cs
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Domain.Services\obj\Debug\net7.0\DDDWebAPI.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Domain.Services\obj\Debug\net7.0\DDDWebAPI.Domain.Services.sourcelink.json
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Domain.Services\obj\Debug\net7.0\DDDWebAP.1817FC97.Up2Date
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Domain.Services\obj\Debug\net7.0\DDDWebAPI.Domain.Services.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Domain.Services\obj\Debug\net7.0\refint\DDDWebAPI.Domain.Services.dll
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Domain.Services\obj\Debug\net7.0\DDDWebAPI.Domain.Services.pdb
+C:\Users\juttahir.moraes\Desktop\Nova pasta\DDDWebAPI\DDDWebAPI.Domain.Services\obj\Debug\net7.0\ref\DDDWebAPI.Domain.Services.dll

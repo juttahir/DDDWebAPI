@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XyAQLR9Aw4hnLy8j9z8QWzBW1ff4QJacUHAl7Ns+5jGAScAlBCNy4Uu1XrK6ApedsL479HxwHga1A3X6/ZaaTg==",
+  "dgSpecHash": "zeTC0Kiy6CLPggun+sWopgNWGkot+s044X1EX2/DgRsmKBI1wwo5/HVA9iaHznj0+b3U/CpF2LTxDbU5Ww2nlQ==",
   "success": true,
-  "projectFilePath": "F:\\_RiderProjects\\DDDWebAPI\\DDDWebAPI.Infrastructure.CrossCutting.Adapter\\DDDWebAPI.Infrastructure.CrossCutting.Adapter.csproj",
+  "projectFilePath": "C:\\Users\\juttahir.moraes\\Desktop\\Nova pasta\\DDDWebAPI\\DDDWebAPI.Infrastructure.CrossCutting.Adapter\\DDDWebAPI.Infrastructure.CrossCutting.Adapter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
